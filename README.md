@@ -103,10 +103,6 @@ routes/web.php                       # Rutas
 - Navbar con menú
 
 ## 📞 Soporte
-- Estudiante: [Tu Nombre]
-- Asignatura: Desarrollo Web
+- Estudiante: Nicolás Silva Cremona
+- Asignatura: DVES
 - Año: 2026
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
