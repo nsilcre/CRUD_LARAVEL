@@ -105,16 +105,16 @@ routes/web.php                       # Rutas
 ## 🖼️ Capturas de la aplicación
 
 ### 🏠 Página de inicio
-![Página de inicio](inicio.png)
+![Página de inicio](Inicio.png)
 
 ### ➕ Añadir vehículo
-![Añadir vehículo](add.png)
+![Añadir vehículo](Add.png)
 
 ### 👁️ Vista del vehículo
-![Vista del vehículo](vista.png)
+![Vista del vehículo](Vista.png)
 
 ### 🗑️ Eliminar vehículo
-![Eliminar vehículo](delete.png)
+![Eliminar vehículo](Delete.png)
 
 ## 📞 Soporte
 - Estudiante: Nicolás Silva Cremona
