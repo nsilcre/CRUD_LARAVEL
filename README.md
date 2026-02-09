@@ -102,6 +102,20 @@ routes/web.php                       # Rutas
 - Formularios con validación
 - Navbar con menú
 
+## 🖼️ Capturas de la aplicación
+
+### 🏠 Página de inicio
+![Página de inicio](inicio.png)
+
+### ➕ Añadir vehículo
+![Añadir vehículo](add.png)
+
+### 👁️ Vista del vehículo
+![Vista del vehículo](vista.png)
+
+### 🗑️ Eliminar vehículo
+![Eliminar vehículo](delete.png)
+
 ## 📞 Soporte
 - Estudiante: Nicolás Silva Cremona
 - Asignatura: DVES
